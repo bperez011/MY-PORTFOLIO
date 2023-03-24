@@ -1,6 +1,6 @@
 # MY-PORTFOLIO
 
-##User Story
+#User Story
 
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
@@ -35,7 +35,7 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles , and their profile on a third platform (Stack Overflow, Twitter) 
 
-##Installation
+#Installation
 
     Step 1: Clone this repository. you can do this by running  git clone Repo
     Step 2: Install dependencies by running the npm i 
