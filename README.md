@@ -7,7 +7,7 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
 
-##Acceptance Criteria
+#Acceptance Criteria
 
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
